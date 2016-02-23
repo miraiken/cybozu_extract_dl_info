@@ -1,4 +1,10 @@
-﻿#ifndef CHAR_CONVERT_INC_ARITHMETIC_CHAR_CONVERT_HPP_
+﻿/*=============================================================================
+Copyright (C) 2016 yumetodo
+
+Distributed under the Boost Software License, Version 1.0.
+(See http://www.boost.org/LICENSE_1_0.txt)
+=============================================================================*/
+#ifndef CHAR_CONVERT_INC_ARITHMETIC_CHAR_CONVERT_HPP_
 #define CHAR_CONVERT_INC_ARITHMETIC_CHAR_CONVERT_HPP_
 #include <codecvt>
 #include <string>

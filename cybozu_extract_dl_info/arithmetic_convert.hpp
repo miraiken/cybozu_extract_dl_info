@@ -1,3 +1,9 @@
+/*=============================================================================
+Copyright (C) 2016 yumetodo
+
+Distributed under the Boost Software License, Version 1.0.
+(See http://www.boost.org/LICENSE_1_0.txt)
+=============================================================================*/
 #ifndef ARITHMETIC_CONVERT_INC_ARITHMETIC_CONVERT_HPP_
 #define ARITHMETIC_CONVERT_INC_ARITHMETIC_CONVERT_HPP_
 #include <codecvt>
