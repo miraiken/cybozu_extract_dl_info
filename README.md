@@ -1,4 +1,4 @@
-#概要
+# 概要
 このままでは使えません。Source.cppに変更を加える必要があります。
 
 # LICENSE
@@ -8,7 +8,7 @@ GPL v3
 ## Other
 Boost Software License
 
-#Support Compiler
+# Support Compiler
 - Visual Studio 2015 Community Update 1
 - Visual Studio 2015 Update 1 Clang with Microsoft CodeGen preview 1(clang 3.7)
 
